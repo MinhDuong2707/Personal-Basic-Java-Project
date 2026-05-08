@@ -1,6 +1,5 @@
 package labjava_1;
 
-import org.junit.jupiter.api.Test;
 
 public abstract class Employee {
     protected String name;
